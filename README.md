@@ -2,3 +2,10 @@
 ## 20210306
 
 #phyton
+
+# tacademy edit 2 
+
+## 20210306-2
+
+* Wether_sun
+* Place_kor
